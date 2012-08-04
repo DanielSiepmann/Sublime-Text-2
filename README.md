@@ -16,5 +16,5 @@ Currently tested / supported Languages are:
 - Markdown
 
 # Screens
-![Example 1](Example 1.png "Example 1 with HTML, CSS and PHP.")
-![Example 2](Example 2.png "Example 2 with HTML, CSS and PHP.")
+![Example 1](https://raw.github.com/pogosheep/Sublime-Text-2/master/Example%201.png "Example 1 with HTML, CSS and PHP.")
+![Example 2](https://raw.github.com/pogosheep/Sublime-Text-2/master/Example%202.png "Example 2 with HTML, CSS and PHP.")
