@@ -21,11 +21,16 @@ Currently tested / supported:
     - TypoScript (not well done)
     - JSON (not well done)
     - PHP
+    - PHPDoc
     - Markdown
+    - Markup
     - Diff
 - Plugins
     - SublimeLinter
     - Bracket Highlighter
+    - Shell command output
+- Core
+    - Find in Files Result
 
 # Additions
 
