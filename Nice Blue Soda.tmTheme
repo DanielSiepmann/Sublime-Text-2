@@ -318,6 +318,19 @@
             </dict>
         </dict>
 
+        <!-- HTML -->
+        <dict>
+            <key>name</key>
+            <string>Content inside HTML</string>
+            <key>scope</key>
+            <string>text.html.basic</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#ffffff</string>
+            </dict>
+        </dict>
+
         <!-- JSON -->
         <dict>
             <key>name</key>
